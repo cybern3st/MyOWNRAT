@@ -1,5 +1,5 @@
 # DEMO
-![](demo/demo.mp4)
+<img src="demo/demo.mp4" alt="Demo Animation" width="100%"/>
 
 # MyOWNRAT
 
