@@ -1,5 +1,5 @@
 # DEMO
-<img src="demo/demo.gif" alt="Demo Animation" />
+<img src="demo/demo.gif" alt="Demo Animation" width="100%" />
 
 # MyOWNRAT
 
